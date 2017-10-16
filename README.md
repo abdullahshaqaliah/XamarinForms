@@ -1,2 +1,2 @@
 # XamarinForms
-Test  Only how to use Githup
+Test  Only how to use Git hup
